@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo was archived as it is now part of the official supported samples from Zebra Technologies: https://github.com/ZebraDevs/Mobile_Dimensioning_Samples
+
 # Zebra Mobile Parcel API "Activity For Result"
 
 Zebra Mobile Parcel API works with Pending Intents, but it requires getting a token before invoking it (https://techdocs.zebra.com/mobile-parcel/1-0/guide/api/#2generateapitoken).
